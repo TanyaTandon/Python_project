@@ -9,7 +9,7 @@ import glob
 import pandas as pd
 import matplotlib.pyplot as plt
 
-path='C:/Users/arpan/OneDrive/Desktop/Acads/Java & Python/HW/Project1/Names of State'
+path='C:/Users/tanya/OneDrive/Desktop/Acads/Java & Python/HW/Project1/Names of State'
 
 class BabyNames():
     def __init__(self,path):
